@@ -1,1 +1,4 @@
-Automate quick and dirty curl based perfomance testing using timing from the X-Runtime hear
+Perf Collector
+==
+
+Automate quick and dirty perfomance testing using curl and timing information from the X-Runtime header.
